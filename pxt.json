@@ -1,8 +1,7 @@
 {
     "name": "repob",
     "dependencies": {
-        "device": "*",
-        "repoa": "#master#master"
+        "device": "*"
     },
     "description": "",
     "files": [
