@@ -2,16 +2,19 @@
     "name": "repob",
     "dependencies": {
         "device": "*",
-        "repoa": "workspace:b0275e83-7725-4ad0-d6de-232b8da3be9d"
+        "repoa": "#master#master"
     },
     "description": "",
     "files": [
-        "main.blocks",
         "main.ts",
         "README.md"
     ],
     "preferredEditor": "tsprj",
     "testFiles": [
         "test.ts"
-    ]
+    ],
+    "targetVersions": {
+        "target": "0.14.41",
+        "pxt": "5.28.31"
+    }
 }
