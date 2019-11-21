@@ -1,7 +1,8 @@
 {
     "name": "repob",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "repoa": "workspace:b0275e83-7725-4ad0-d6de-232b8da3be9d"
     },
     "description": "",
     "files": [
@@ -9,7 +10,7 @@
         "main.ts",
         "README.md"
     ],
-    "preferredEditor": "blocksprj",
+    "preferredEditor": "tsprj",
     "testFiles": [
         "test.ts"
     ]
