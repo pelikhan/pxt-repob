@@ -1,4 +1,4 @@
-# pxt-repob https://github.com/pelikhan/pxt-repob/workflows/makecode/badge.svg
+# pxt-repob ![MakeCode GitHub Action badge](https://github.com/pelikhan/pxt-repob/workflows/makecode/badge.svg)
 
 
 
