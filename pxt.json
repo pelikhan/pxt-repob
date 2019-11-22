@@ -12,9 +12,5 @@
     "preferredEditor": "tsprj",
     "testFiles": [
         "test.ts"
-    ],
-    "targetVersions": {
-        "target": "0.14.41",
-        "pxt": "5.28.31"
-    }
+    ]
 }
