@@ -2,7 +2,7 @@
     "name": "repob",
     "dependencies": {
         "device": "*",
-        "repoa": "github:pelikhan/pxt-repoa#master"
+        "repoa": "github:pelikhan/pxt-repoa#v0.0.2"
     },
     "description": "",
     "files": [
